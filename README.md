@@ -3,7 +3,8 @@
 # В проекте использовались: 
 - HTML
 - CSS
-- JavaScript
+- jQuery
 
 # Библиотеки:
 - Owl carousel
+- FancyBox
